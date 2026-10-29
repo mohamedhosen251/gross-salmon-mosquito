@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "gross-salmon-mosquito",
+    "slug": "gross-salmon-mosquito",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.grosssalmonmosquito" },
+    "scheme": "grosssalmonmosquito"
+  }
+}
